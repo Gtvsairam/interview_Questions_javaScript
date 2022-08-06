@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+#box1{
+    background-color: rgba(146, 217, 220, 0.416);
+    height: 50px;
+    width: 80px;
+    font-size: larger;
+    text-align: center;
+    margin-right: 20px;
+    color: indigo;
+    font-weight: bold;
+
+}
