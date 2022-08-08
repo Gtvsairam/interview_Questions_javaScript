@@ -9,8 +9,8 @@ button.addEventListener('click', function(){
 });
 //Write code to get 1st H1 element from a webpage using DOM
 document.getElementsByTagName('h1')[0];
-document.getElementById('#h1Text');
-document.querySelector('#h1Text');
+document.querySelectorAll('#h1')[0];
+document.querySelector('#h1');
 
 // Write code to implement timer clock using JS -- display HH:MM:SS -- the time should keep updating every second
 function Datetime(){
